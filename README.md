@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Covid-19-Report-Tracker
+
+This App can be used to grab quick covid-19 news update bites.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
