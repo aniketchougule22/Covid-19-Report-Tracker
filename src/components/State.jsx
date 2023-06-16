@@ -25,7 +25,7 @@ const State = () => {
       <div className="container">
         <table className="table table-striped mb-4 table-hover">
           <thead>
-            <tr>
+            <tr style={{color: 'red'}}>
               <th scope="col">STATE</th>
               <th scope="col">CONFIRMED</th>
               <th scope="col">RECOVERED</th>
